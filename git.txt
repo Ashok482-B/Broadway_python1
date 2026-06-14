@@ -1,0 +1,7 @@
+ssh
+
+#create branch
+git branch test_branch
+
+#switch brand to test_branch
+git checkout test_branch
